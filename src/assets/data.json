@@ -1,0 +1,64 @@
+[{
+    "id":1,
+    "title":"algorithms",
+    "description":"this is the descripiton of how i approached algorithms"
+},
+{
+    "id":2,
+    "title":"django",
+    "description":"this is the event where i have learnt django and this is it i have learnt that django is built for data intensive application"
+},
+{
+    "id":3,
+    "title":"vue",
+    "description":"this is where i had to force myselt to javascript which is very easy the second part is that i had to understand the dom"
+},
+{
+    "id":4,
+    "title":"djang and vue",
+    "description":"this is what introduced me to the freedon i am seeking and i hop its throught this that i am goin to get the project that are going togive me teh freedom"
+},
+{
+    "id":1,
+    "title":"algorithms",
+    "description":"this is the descripiton of how i approached algorithms"
+},
+{
+    "id":2,
+    "title":"django",
+    "description":"this is the event where i have learnt django and this is it i have learnt that django is built for data intensive application"
+},
+{
+    "id":3,
+    "title":"vue",
+    "description":"this is where i had to force myselt to javascript which is very easy the second part is that i had to understand the dom"
+},
+{
+    "id":4,
+    "title":"djang and vue",
+    "description":"this is the event where i have learnt django and this is it i have learnt that django is built for data intensive application"
+
+},
+{
+    "id":1,
+    "title":"algorithms",
+    "description":"this is the descripiton of how i approached algorithms"
+},
+{
+    "id":2,
+    "title":"django",
+    "description":"this is the event where i have learnt django and this is it i have learnt that django is built for data intensive application"
+},
+{
+    "id":3,
+    "title":"vue",
+    "description":"this is where i had to force myselt to javascript which is very easy the second part is that i had to understand the dom"
+},
+{
+    "id":4,
+    "title":"djang and vue",
+    "description":"this is the event where i have learnt django and this is it i have learnt that django is built for data intensive application"
+
+}
+
+]
