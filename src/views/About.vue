@@ -4,7 +4,7 @@
             <div class="container mx-auto">
                 <div class="grid grid-cols-1 md:grid-cols-2">
                     <div class="rounded-xl shadow-sm p-4">
-                        <img :src="monkey" class="object-fill mx-auto opacity-35">
+                        <img :src="monkey" class="object-fill mx-auto opacity-35 w-full">
                     </div>
                     <div class="rounded-xl shadow-sm text-justify bg-white p-4">
                         <h1 class="font-bold p-3 mb-2 text-[34px]">Hello i am ochieng odhiambo</h1>
